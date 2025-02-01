@@ -34,5 +34,6 @@ public class ArrayExercise1 {
         for(int i=0;i<numbers.length;i++){
             numbers[i]=input.nextInt();
         }
+
     }
 }
